@@ -1,0 +1,25 @@
+{
+  "name": "angular-navbar",
+  "version": "0.0.0",
+  "description": "Angular Navbar",
+  "main": "dist",
+  "keywords": [
+    "angular",
+    "navbar"
+  ],
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "build": "./scripts/build"
+  },
+  "author": "João Afonso Martins",
+  "license": "MIT",
+  "homepage": "https://github.com/joaoafrmartins/angular-navbar",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joaoafrmartins/angular-navbar.git"
+  },
+  "bugs": {
+    "url": "https://github.com/joaoafrmartins/angular-navbar/issues"
+  }
+}
